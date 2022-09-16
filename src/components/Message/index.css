@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.message {
+  font-size: 26px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 700;
+  text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+  .message {
+    font-size: 48px;
+  }
+}
